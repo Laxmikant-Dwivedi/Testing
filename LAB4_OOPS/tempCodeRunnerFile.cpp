@@ -1,0 +1,3 @@
+class AreaOfSquare {
+    int l;
+   
